@@ -18,13 +18,17 @@ Command-line interface for user-friendly interaction.
 
 Ensure you have Python installed along with the required library:
 
-```pip install pillow```
+```
+pip install pillow
+```
 
 ## 📜 Usage
 
 Run the script and follow the interactive menu:
 
-```python PixelSwapping.py```
+```
+python PixelSwapping.py
+```
 
 ## Menu Options
 ```
@@ -47,13 +51,21 @@ Kali Linux comes with Python pre-installed. Follow these steps to use the script
 
 ## 1️⃣ Install Dependencies
 
-```sudo apt update && sudo apt install python3-pip -y```
-```pip3 install pillow```
+```
+sudo apt update && sudo apt install python3-pip -y
+```
+```
+pip3 install pillow
+```
 
 ## 2️⃣ Clone the Repository
 
-```git clone https://github.com/hf3cyber/PRODIGY_CS_02.git```
-```cd PRODIGY_CS_02```
+```
+git clone https://github.com/hf3cyber/PRODIGY_CS_02.git
+```
+```
+cd PRODIGY_CS_02
+```
 
 ## 3️⃣ Create a Python Virtual Environment (Recommended)
 
@@ -67,9 +79,11 @@ python3 -m venv venv
 
 ## 4️⃣ Run the Script
 
-```python3 PixelSwapping.py```
+```
+python3 PixelSwapping.py
+```
 
-🔹 Improvements & Enhancements
+### 🔹 Improvements & Enhancements
 
 Maintains the original image format (avoiding JPEG compression issues).
 
@@ -81,19 +95,11 @@ Supports different image modes (RGB, RGBA, Grayscale).
 
 Uses NumPy for optimized performance in pixel operations.
 
-## 📂 Repository
-
-GitHub Username: hf3cyber
-
-Repository: PRODIGY_CS_02
-
-📧 Contact
+### 📧 Contact
 
 For questions or improvements, feel free to contribute or open an issue in the repository!
 
 ## 👤 Author
-
-hf3cyber
 
 GitHub: @hf3cyber
 
