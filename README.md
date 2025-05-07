@@ -61,10 +61,10 @@ pip3 install pillow
 ## 2️⃣ Clone the Repository
 
 ```
-git clone https://github.com/hf3cyber/PRODIGY_CS_02.git
+https://github.com/hf3cyber/Image_Encryption_Decryption.git
 ```
 ```
-cd PRODIGY_CS_02
+cd Image_Encryption_Decryption
 ```
 
 ## 3️⃣ Create a Python Virtual Environment (Recommended)
